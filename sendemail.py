@@ -4,7 +4,7 @@ fromaddr = 'info3180.justenmorgan@gmail.com'
 
 fromname = "Justen Morgan"
 
-toaddr  = 'justenamorgan@gmail.com'
+toaddr  = 'info3180.justenmorgan@gmail.com'
 
 toname = "Justen Morgan"
 
@@ -12,7 +12,9 @@ msg = "Messaging message"
 
 subject = "Subject Message"
 
-message = """From: {} <{}>
+message = """
+
+From: {} <{}>
 
 To: {} <{}>
 
